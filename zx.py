@@ -34,7 +34,7 @@ if bit == "64bit":
 
  
 
-        from zx import login
+        from zx_MAHADI import login
 
  
 
@@ -50,7 +50,7 @@ elif bit == "32bit":
 
  
 
-        from zx import login
+        from zx_MAHADI import login
 
  
 
